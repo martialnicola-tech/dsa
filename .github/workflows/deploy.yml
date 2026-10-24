@@ -26,6 +26,6 @@ jobs:
           open -u '$FTP_USER','$FTP_PASS' '$FTP_HOST';
           mirror --reverse --verbose --no-perms \
             --exclude-glob .git/ --exclude-glob .github/ \
-            --exclude-glob '*.md' \
+            --exclude-glob '*.md' --exclude-glob docs/ \
             ./ public_html ;
           "

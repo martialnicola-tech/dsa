@@ -1,0 +1,144 @@
+{
+  "_aide": "Pour ajouter une pièce : copier un bloc dans 'disponibles', changer les champs, ajouter la photo dans images/. Univers possibles : art, sculptures, cinema, mobilier, jouets.",
+  "disponibles": [
+    {
+      "numero": "0427",
+      "univers": "art",
+      "titre": "Gorille street art, tirage signé et encadré",
+      "prix": 690,
+      "photo": "gorilla",
+      "epoque": "Contemporain",
+      "etat": "Très bon état",
+      "dimensions": "env. 100 × 100 cm",
+      "description": "Tirage numéroté et signé, encadrement noir d'origine, vitre intacte. Les couleurs se voient mieux en vrai."
+    },
+    {
+      "numero": "0428",
+      "univers": "art",
+      "titre": "Affiche pop « Café de Paris », grand format",
+      "prix": 420,
+      "photo": "cafe",
+      "epoque": "Contemporain",
+      "etat": "Très bon état",
+      "dimensions": "env. 100 × 100 cm",
+      "description": "Scène de terrasse parisienne revisitée, sous cadre. Une pièce qui change une pièce."
+    },
+    {
+      "numero": "0431",
+      "univers": "sculptures",
+      "titre": "Sculpture résine bleu chromé",
+      "prix": 380,
+      "photo": "blue",
+      "epoque": "Contemporain",
+      "etat": "Parfait état",
+      "dimensions": "env. 30 cm",
+      "description": "Figurine design en résine métallisée, tenue par une étoile. Vendue avec son carton."
+    },
+    {
+      "numero": "0433",
+      "univers": "mobilier",
+      "titre": "Salon vintage, table basse verre et laiton",
+      "prix": 540,
+      "photo": "salon",
+      "epoque": "Années 70",
+      "etat": "Bon état",
+      "dimensions": "table 120 × 60 cm",
+      "description": "Table basse verre et laiton, fauteuils et tapis du coin salon. Possible de prendre à la pièce."
+    },
+    {
+      "numero": "0436",
+      "univers": "mobilier",
+      "titre": "Fauteuil cuir orange",
+      "prix": 185,
+      "photo": "armchair",
+      "epoque": "Années 70",
+      "etat": "Très bon état",
+      "dimensions": "env. 80 × 80 cm",
+      "description": "Cuir souple, assise ferme, pieds métal. Prêt à s'installer dans un salon."
+    },
+    {
+      "numero": "0438",
+      "univers": "cinema",
+      "titre": "Affiches de cinéma originales",
+      "prix": 240,
+      "photo": "posters",
+      "epoque": "Années 70 à 90",
+      "etat": "Bon état",
+      "dimensions": "formats divers",
+      "description": "Lot d'affiches de films, certaines pliées d'origine. Prix à la pièce selon l'affiche."
+    },
+    {
+      "numero": "0440",
+      "univers": "jouets",
+      "titre": "Voiture à pédales ancienne",
+      "prix": 320,
+      "photo": "toys",
+      "epoque": "Années 50",
+      "etat": "Patine d'origine",
+      "dimensions": "env. 90 cm",
+      "description": "Voiture en tôle à pédales, peinture d'origine. À voir parmi les enseignes et jouets du hangar."
+    }
+  ],
+  "vendues": [
+    {
+      "numero": "0415",
+      "univers": "art",
+      "titre": "Tirage street art, couronne verte",
+      "prix": 560,
+      "photo": "raw",
+      "epoque": "Contemporain",
+      "etat": "Vendu",
+      "dimensions": "",
+      "description": ""
+    },
+    {
+      "numero": "0409",
+      "univers": "sculptures",
+      "titre": "Lot de sculptures de collection",
+      "prix": 900,
+      "photo": "shelf",
+      "epoque": "Contemporain",
+      "etat": "Vendu",
+      "dimensions": "",
+      "description": ""
+    },
+    {
+      "numero": "0402",
+      "univers": "mobilier",
+      "titre": "Fauteuil design chromé",
+      "prix": 260,
+      "photo": "jukebox",
+      "epoque": "Années 70",
+      "etat": "Vendu",
+      "dimensions": "",
+      "description": ""
+    }
+  ],
+  "univers_accueil": [
+    {
+      "univers": "art",
+      "photo": "gorilla",
+      "sous_titre": "street art, tirages"
+    },
+    {
+      "univers": "sculptures",
+      "photo": "blue",
+      "sous_titre": "design, résine"
+    },
+    {
+      "univers": "cinema",
+      "photo": "posters",
+      "sous_titre": "affiches, pop culture"
+    },
+    {
+      "univers": "mobilier",
+      "photo": "salon",
+      "sous_titre": "50 à 90"
+    },
+    {
+      "univers": "jouets",
+      "photo": "toys",
+      "sous_titre": "enseignes, objets"
+    }
+  ]
+}
