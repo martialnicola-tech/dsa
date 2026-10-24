@@ -121,6 +121,9 @@ footer .script{font-size:24px;color:#E8B58E}
 .tl>div:last-child{border-bottom:2px solid var(--noir)}
 .tl b{font:700 30px/1.1 var(--f-display);color:var(--brique)}
 @media(max-width:640px){.tl>div{grid-template-columns:1fr}}
+.bigwrap{position:relative}
+.six{position:absolute;top:-8px;right:0;width:108px;aspect-ratio:1;border-radius:50%;background:var(--pop);color:#fff;display:grid;place-content:center;text-align:center;transform:rotate(12deg);border:3px solid var(--noir);font:700 16px/1 var(--f-display);z-index:2}
+.six b{font:800 46px/.9 var(--f-head);display:block}
 /* modal */
 dialog{border:3px solid var(--noir);padding:0;background:var(--creme);color:var(--noir);width:min(920px,calc(100% - 24px));max-height:calc(100% - 24px);overflow:auto;box-shadow:8px 8px 0 #000}
 dialog::backdrop{background:#000000a8}
